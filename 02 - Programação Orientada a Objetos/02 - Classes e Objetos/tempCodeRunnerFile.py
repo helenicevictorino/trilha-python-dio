@@ -1,0 +1,5 @@
+b1 = Bicicleta("Vermelha", "Caloi", 2022, 600)
+# b1.buzinar()
+# b1.correr()
+# b1.parar()
+# print(b1.cor, b1.modelo, b1.ano, b1.valor)
